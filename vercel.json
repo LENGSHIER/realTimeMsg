@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "api/*.js": {
+      "memory": 1024,
+      "maxDuration": 10
+    }
+  },
+  "kv": [
+    {
+      "id": "ecfg_08sv0oxp32zvlj9weq0oeij4xwsd",
+      "name": "realTimeMsg"
+    }
+  ]
+}
